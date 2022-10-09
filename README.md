@@ -19,7 +19,7 @@ In order to profitably trade, technical indicators need to be used to confirm wh
 Directional Movement Index (DMI)
 The Directional Movement Index (DMI) is actually a collection of three separate indicators combined into one. Directional Movement consists of the Average Directional Index (ADX), Plus Directional Indicator (+DI) and Minus Directional Indicator (-DI). DMI's purpose is to define whether or not there is a trend present. It does not take direction into account at all. The other two indicators (+DI and -DI) are used to complement the ADX. They serve the purpose of determining trend direction. By combining all three, a technical analyst has a way of determining and measuring a trend's strength as well as its direction. (tradingview.com)
 
-## ![Screenshot of the notebook open](images/DMI.png) </br>
+## ![Screenshot of DMI in Tradingview](images/DMI.png) </br>
 
 ---
 
@@ -47,9 +47,9 @@ Enter into your virtual environment by typing conda activate dev and pip install
 
 ## Usage
 
-The following images show the notebook read in Juypter Lab and in Github under financial_planning_tools.ipynb.
+The following images show the top_movers_strategy run in the VS Code.
 
-## ![Screenshot of the notebook open](Images/Jupyter_Lab.jpg) </br>
+## ![Screenshot of the file open](images/top_movers.png) </br>
 
 ---
 
