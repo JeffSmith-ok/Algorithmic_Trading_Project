@@ -16,7 +16,6 @@ Finally, and equally important, Sheng Gao is our presentation leader. He organiz
 
 In order to profitably trade, technical indicators need to be used to confirm what you believe is going to happen with the market and alert to exit your positions when the indicators do not agree. One of the technical indicators Jeff strongly believes for this strategy is the DMI indicator.
 
-Directional Movement Index (DMI)
 The Directional Movement Index (DMI) is actually a collection of three separate indicators combined into one. Directional Movement consists of the Average Directional Index (ADX), Plus Directional Indicator (+DI) and Minus Directional Indicator (-DI). DMI's purpose is to define whether or not there is a trend present. It does not take direction into account at all. The other two indicators (+DI and -DI) are used to complement the ADX. They serve the purpose of determining trend direction. By combining all three, a technical analyst has a way of determining and measuring a trend's strength as well as its direction. (tradingview.com)
 
 ## ![Screenshot of DMI in Tradingview](images/DMI.png) </br>
