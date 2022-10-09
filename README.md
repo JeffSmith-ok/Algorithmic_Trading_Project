@@ -38,7 +38,7 @@ ALPACA_SECRET_KEY = "INSERT HERE"
 
 ---
 
-Enter into your virtual environment by typing conda activate dev and pip install the libraries and dependencies
+Enter into your virtual environment and activate it and pip install the libraries and dependencies
 
 ---
 
@@ -61,7 +61,7 @@ Linkedin: https://www.linkedin.com/in/jeffsmith77/ </br>
 Personal email: jsmith@lexsmith.finance </br>
 
 Name: Russell Moore </br>
-Linkedin: https://www.linkedin.com/in/russell-david-moore/
+Linkedin: https://www.linkedin.com/in/russell-david-moore/ </br>
 Personal email: rdm5181@gmail.com </br>
 
 Name: Mike Cutno </br>
