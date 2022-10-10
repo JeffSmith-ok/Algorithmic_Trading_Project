@@ -30,7 +30,7 @@ git clone https://github.com/JeffSmith-ok/Columbia_Algorithmic_Project
 
 cd Columbia_Algorithmic_Project
 
-Create a .env file in the starter project folder and place your api key and api secret key as follows:
+Create a .env file in the project folder and place your api key and api secret key as follows:
 
 ALPACA_API_KEY = "INSERT HERE"
 
