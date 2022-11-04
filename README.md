@@ -1,4 +1,4 @@
-# Columbia_Algorithmic_Project
+# Algorithmic_Trading_Project
 
 The 2nd Group Project on Sentimental Algorithmic Trading
 
