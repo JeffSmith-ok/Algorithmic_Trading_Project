@@ -6,7 +6,7 @@ The 2nd Group Project on Sentimental Algorithmic Trading
 
 Jeff Smith is the leader of the project and he made excellent gains on a paper trading account held with Alpaca Markets Brokerage. Alpaca is a developer first API for stocks and crypto. Alpaca provides access to US stock markets, historical data, and fundamental data through its API. He learned about Alpaca from this Financial Technology Computer Programming Certificate Program offered by Columbia University in the City of New York.
 
-He began this venture by selecting the most profitable securities. He quicky began to realize that by following the market and the news both live on the televison and on the financial websites, he could quickly enter the market and earn gains by buying or shorting the securities and exit the positions quickly. He believes that the market is made up of rallies and crashes, based on the political, economic and climatic events that happen around the world.
+He began this venture by coding the top movers, delete positions and cancel all orders, and selected the most profitable securities. He quicky began to realize that by following the market and the news both live on the televison and on the financial websites, he could quickly enter the market and earn gains by buying or shorting the securities and exit the positions quickly. He believes that the market is made up of rallies and crashes, based on the political, economic and climatic events that happen around the world.
 
 Russell Moore undertook to train, along with Sheng Gao, a sentimental machine learning algorithm to interpret the headlines as either positive or negative for the Nasdaq, and then we could theoretically trade based on the machine learning signals.
 
